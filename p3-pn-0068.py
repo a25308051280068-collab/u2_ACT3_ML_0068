@@ -1,5 +1,7 @@
 import numpy as np
 
+print("Christian garcia Jimenez Nc=0068")
+
 # ==========================================
 # 1. Estadística Básica en Arreglos NumPy
 # ==========================================
